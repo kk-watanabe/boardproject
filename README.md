@@ -12,6 +12,7 @@
 |![サインアップ](https://i.imgur.com/S6LWPGz.png)|![ログイン](https://i.imgur.com/78VZycF.png)|
 
 ## 画面遷移
+![](https://i.imgur.com/ea58mSC.png)
 
 ## 使用技術
 
