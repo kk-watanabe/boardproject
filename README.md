@@ -2,6 +2,8 @@
 
 　CRUD機能と認証機能を備えた社内SNSアプリです。
 
+<br>
+
 ## アプリケーションのイメージ
 |サインアップ画面|ログイン画面|
 |---|---|
@@ -11,9 +13,15 @@
 |---|---|
 |![サインアップ](https://i.imgur.com/S6LWPGz.png)|![ログイン](https://i.imgur.com/78VZycF.png)|
 
+<br>
+
 ## 画面遷移
 ![](https://i.imgur.com/ea58mSC.png)
 
+<br>
+
 ## 使用技術
+
+<br>
 
 ## 今後の展望
