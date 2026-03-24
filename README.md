@@ -5,4 +5,4 @@
 ## アプリケーションのイメージ
 |サインアップ画面|ログイン画面|
 |---|---|
-|![サインアップ]()|![ログイン](https://i.imgur.com/6p3CgXG.png)|
+|![サインアップ](https://i.imgur.com/sxzsmpM.png)|![ログイン](https://i.imgur.com/6p3CgXG.png)|
