@@ -32,7 +32,7 @@
 <br>
 
 ## 画面遷移
-![](https://i.imgur.com/KEVpJcr.png)
+![](https://i.imgur.com/BxLEdef.png)
 
 <br>
 
