@@ -18,7 +18,7 @@
 
 |投稿フォーム|
 |---|
-|<img src="https://i.imgur.com/4XCg1p3.png" width="450">|
+|<img src="https://i.imgur.com/4XCg1p3.png" width="500">|
 
 <br>
 
