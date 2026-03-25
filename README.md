@@ -10,11 +10,20 @@
 ## アプリケーションのイメージ
 |サインアップ画面|ログイン画面|
 |---|---|
-|![サインアップ](https://i.imgur.com/sxzsmpM.png)|![ログイン](https://i.imgur.com/6p3CgXG.png)|
+|<img src="https://i.imgur.com/sxzsmpM.png" width="50%">|<img src="https://i.imgur.com/6p3CgXG.png" width="50%">|
 
 |メイン画面|詳細画面|
 |---|---|
 |![サインアップ](https://i.imgur.com/S6LWPGz.png)|![ログイン](https://i.imgur.com/78VZycF.png)|
+
+<br>
+
+## 機能一覧
+・サインアップ機能
+・ログイン機能
+・CRUD機能
+・いいね機能
+・既読機能
 
 <br>
 
@@ -24,6 +33,10 @@
 <br>
 
 ## 使用技術
+| Category  |  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 <br>
 
