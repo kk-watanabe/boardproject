@@ -37,10 +37,10 @@
 <br>
 
 ## 使用技術
-| Category  | Technology Stack |
+| Category  | Technology |
 | ------------- | ------------- |
 | Frontend  | Bootstrap5.3.8 |
-| Backend  | Dango6.0.2 |
+| Backend  | Django6.0.2 |
 | Database | PostgreSQL |
 
 <br>
