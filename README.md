@@ -10,7 +10,7 @@
 ## アプリケーションのイメージ
 |サインアップ画面|ログイン画面|
 |---|---|
-|<img src="https://i.imgur.com/sxzsmpM.png" width="50%">|<img src="https://i.imgur.com/6p3CgXG.png" width="50%">|
+|<img src="https://i.imgur.com/sxzsmpM.png" width="100%">|<img src="https://i.imgur.com/6p3CgXG.png" width="100%">|
 
 |メイン画面|詳細画面|
 |---|---|
