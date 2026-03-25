@@ -3,7 +3,7 @@
 社内SNSアプリです。
 
 今年の2月にWebアプリ開発の初歩的な練習課題として取り組みました。使用したフレームワークはDjangoです。<br>
-エラーを出しつつも完成に向けて地道に開発することの面白みを感じました。
+エラーを出しつつも完成に向けて地道に開発することの難しさと面白みを学びました。
 
 <br>
 
@@ -37,10 +37,11 @@
 <br>
 
 ## 使用技術
-| Category  |  |
+| Category  | Technology Stack |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Frontend  | Bootstrap5.3.8 |
+| Backend  | Dango6.0.2 |
+| Database | PostgreSQL |
 
 <br>
 
