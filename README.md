@@ -31,7 +31,7 @@
 
 <br>
 
-## 画面遷移
+## 画面遷移図
 ![](https://i.imgur.com/BxLEdef.png)
 
 <br>
