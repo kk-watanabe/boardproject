@@ -28,7 +28,7 @@
 <br>
 
 ## 画面遷移
-![](https://i.imgur.com/ea58mSC.png)
+![](https://i.imgur.com/3ckUJN9.png)
 
 <br>
 
