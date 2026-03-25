@@ -10,11 +10,11 @@
 ## アプリケーションのイメージ
 |サインアップ画面|ログイン画面|
 |---|---|
-|<img src="" width="500">|<img src="" width="500">|
+|<img src="https://i.imgur.com/JIAkAfw.png" width="500">|<img src="https://i.imgur.com/JK8jb5O.png" width="500">|
 
 |メイン画面|詳細画面|
 |---|---|
-|<img src="" width="500">|<img src="" width="500">|
+|<img src="https://i.imgur.com/ya5QrZJ.png" width="500">|<img src="https://i.imgur.com/vF6Igjg.png" width="500">|
 
 |投稿フォーム|
 |---|
