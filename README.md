@@ -10,15 +10,15 @@
 ## アプリケーションのイメージ
 |サインアップ画面|ログイン画面|
 |---|---|
-|![サインアップ](https://i.imgur.com/sxzsmpM.png)|![ログイン](https://i.imgur.com/6p3CgXG.png)|
+|<img src="https://i.imgur.com/sxzsmpM.png" width="500">|<img src="https://i.imgur.com/6p3CgXG.png" width="500">|
 
 |メイン画面|詳細画面|
 |---|---|
-|![サインアップ](https://i.imgur.com/S6LWPGz.png)|![ログイン](https://i.imgur.com/78VZycF.png)|
+|<img src="https://i.imgur.com/S6LWPGz.png" width="500">|<img src="https://i.imgur.com/78VZycF.png" width="500">|
 
-|登録画面||
-|---|---|
-|<img src="https://i.imgur.com/U8WSlx3.png" width="400">||
+|登録画面|
+|---|
+|<img src="https://i.imgur.com/U8WSlx3.png" width="500">|
 
 <br>
 
