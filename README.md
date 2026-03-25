@@ -16,9 +16,9 @@
 |---|---|
 |![サインアップ](https://i.imgur.com/S6LWPGz.png)|![ログイン](https://i.imgur.com/78VZycF.png)|
 
-|登録画面| - |
+|登録画面||
 |---|---|
-|![](https://i.imgur.com/U8WSlx3.png)||
+|<img src="https://i.imgur.com/U8WSlx3.png" width="400">||
 
 <br>
 
