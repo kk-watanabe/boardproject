@@ -15,7 +15,7 @@
 
 |投稿一覧画面|詳細画面|
 |---|---|
-|<img src="https://i.imgur.com/g7qf6Fm.png" width="500">|<img src="https://i.imgur.com/I5oIim9.png" width="500">|
+|<img src="https://i.imgur.com/EiU7uqD.png" width="500">|<img src="https://i.imgur.com/2LOBbCB.png" width="500">|
 
 |投稿フォーム|
 |---|
