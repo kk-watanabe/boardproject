@@ -33,7 +33,7 @@
 <br>
 
 ## 画面遷移図
-![](https://i.imgur.com/BxLEdef.png)
+![](https://i.imgur.com/UaPc5sp.png)
 
 <br>
 
