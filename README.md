@@ -40,7 +40,7 @@
 ## 使用技術
 | Category  | Technology Stack |
 | ------------- | ------------- |
-| Frontend  | HTML, CSS, Bootstrap5.3.8 |
+| Frontend  | HTML/CSS, Bootstrap5.3.8 |
 | Backend  | Python3.12.3, Django6.0.2 |
 | Database | PostgreSQL16.13 |
 
