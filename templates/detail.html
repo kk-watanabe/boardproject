@@ -20,7 +20,7 @@
         <p>タイトル：{{ object.title }}</p>
         <p>投稿者：{{ object.author }}</p>
         <p>内容：{{ object.content }}</p>
-        <p><img src='{{object.images.url}}' width=300></p>
+        <p><img src='{{object.images.url}}' height=200></p>
         <a href="{% url 'good' object.pk %}" class="btn btn-primary" role="button" aria-disabled="true">いいねする</a>
         <a href="{% url 'read' object.pk %}" class="btn btn-secondary" role="button" aria-disabled="true">既読にする</a>
     </div>
